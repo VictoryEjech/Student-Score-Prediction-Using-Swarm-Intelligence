@@ -1,0 +1,12 @@
+Top 10 Most Important Features:
+                     feature  importance
+  gpa_attendance_interaction    0.073824
+               midterm_score    0.072091
+                quiz_average    0.071063
+              library_visits    0.070264
+study_completion_interaction    0.069635
+     sleep_study_interaction    0.067343
+                previous_gpa    0.067120
+       assignment_completion    0.066366
+             online_activity    0.066057
+             attendance_rate    0.065772

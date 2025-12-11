@@ -1,5 +1,9 @@
 # Student Score Prediction Using Swarm Intelligence
 NAME: EJECHI CHUKWUBUIKEM VICTORY  MATNO: ENG2308246  DEPT:  CIVIL ENGINEERING COURSE: SCHOOL: UNIVERSITY OF DELTA, AGBOR, DELTA STATE, NIGERIA  GEE307	Introduction to Artificial Intelligence, Machine Learning and Convergent Technologies
+
+# About the system
+This system assists teachers in pinpointing areas for development, customizing educational opportunities, and offering focused assistance to pupils who are having difficulty.
+
 # Run the Program via batch
 How to Run the Complete System
 Step 1: Install All Required Packages

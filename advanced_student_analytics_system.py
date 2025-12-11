@@ -2186,7 +2186,7 @@ class AdvancedStudentAnalyticsSystem:
         st.markdown("""
         <div style="text-align: center; color: #6B7280; padding: 20px;">
         <p>Advanced Student Analytics System v2.0 | Powered by PSO-Optimized Machine Learning</p>
-        <p>📧 Contact: analytics@university.edu | 📞 Support: +1 (555) 123-4567</p>
+        <p>📧 Contact: ejechivic@gmail.com | 📞 Support: +2348142794786</p>
         <p>© 2024 Educational Analytics Platform. All rights reserved.</p>
         </div>
         """, unsafe_allow_html=True)

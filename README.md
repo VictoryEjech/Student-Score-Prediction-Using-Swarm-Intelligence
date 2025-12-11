@@ -22,8 +22,8 @@ Step 3: Run the Application
 
 streamlit run advanced_student_analytics_system.py
 
-================================================
-Complete Feature Set
+==========Complete Feature Set======================================
+
 1. 🎯 Single Student Prediction Interface
 ✅ Fully Functional Features:
 

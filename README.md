@@ -21,6 +21,15 @@ feature_scaler.pkl
 Step 3: Run the Application
 
 streamlit run advanced_student_analytics_system.py
+================================================
+
+you can now view the Advanced Student Analytics Streamlit app of the student score prediction in your browser.
+
+  Network URL: http://10.0.10.170:8501
+  External URL: http://172.210.53.196:8501
+
+or click on the link below:
+https://super-enigma-jjp9jrgpw5xgcpqgv-8501.app.github.dev/
 
 ==========Complete Feature Set======================================
 

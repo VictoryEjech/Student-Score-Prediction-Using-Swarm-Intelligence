@@ -9,6 +9,7 @@ How to Run the Complete System
 Step 1: Install All Required Packages
 
 pip install streamlit pandas numpy scikit-learn xgboost joblib matplotlib seaborn plotly openpyxl
+
 Step 2: Ensure Model Files Exist
 
 Place these files in your working directory

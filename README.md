@@ -11,9 +11,10 @@ Step 1: Install All Required Packages
 pip install streamlit pandas numpy scikit-learn xgboost joblib matplotlib seaborn plotly openpyxl
 Step 2: Ensure Model Files Exist
 
-Place these files in your working directory (or run train_model.py to generate them):
+Place these files in your working directory
+(or run train_model.py to generate them):
 
-student_score_predictor.pkl
+student_score_predictor.pkl ,
 feature_scaler.pkl
 
 Step 3: Run the Application

@@ -194,6 +194,7 @@ Generate Group Recommendations for interventions
 Export all findings for department meetings
 =============================================
  Advanced Student Analytics System - User Help Documentation
+ (Advanced Student Analystics System manual.docx)
 📖 Table of Contents
 System Overview
 
